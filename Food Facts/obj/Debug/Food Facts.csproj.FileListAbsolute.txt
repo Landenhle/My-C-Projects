@@ -1,0 +1,11 @@
+C:\Users\27676\source\repos\Food Facts\bin\Debug\Food Facts.exe.config
+C:\Users\27676\source\repos\Food Facts\bin\Debug\Food Facts.exe
+C:\Users\27676\source\repos\Food Facts\bin\Debug\Food Facts.pdb
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food Facts.csproj.AssemblyReference.cache
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food_Facts.Properties.Resources.resources
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food Facts.csproj.GenerateResource.cache
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food Facts.csproj.CoreCompileInputs.cache
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food Facts.exe
+C:\Users\27676\source\repos\Food Facts\obj\Debug\Food Facts.pdb

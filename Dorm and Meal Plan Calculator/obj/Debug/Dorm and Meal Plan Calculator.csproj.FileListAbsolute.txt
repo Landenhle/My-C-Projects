@@ -1,0 +1,11 @@
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.AssemblyReference.cache
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.MainForm.resources
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.TotalCosts.resources
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.cache
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+C:\Users\27676\source\repos\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb
